@@ -1,4 +1,5 @@
-const orders = [
+const orders = []
+/*
     {
         "id": 0,
         "phoneNumber": "8879314512",
@@ -60,7 +61,7 @@ const orders = [
         "deletedAt": null
     }
 ];
-
+*/
 module.exports = {
     orders
 }
